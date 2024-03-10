@@ -1,0 +1,12 @@
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\obj\Debug\OutboundEmail.csprojAssemblyReference.cache
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\obj\Debug\OutboundEmail.OutboundEmail.resources
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\obj\Debug\OutboundEmail.ProjectInstaller.resources
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\obj\Debug\OutboundEmail.csproj.GenerateResource.cache
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\obj\Debug\OutboundEmail.csproj.CoreCompileInputs.cache
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\bin\Debug\OutboundEmail.exe.config
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\bin\Debug\OutboundEmail.exe
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\bin\Debug\OutboundEmail.pdb
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\obj\Debug\OutboundEmail.csproj.CopyComplete
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\obj\Debug\OutboundEmail.exe
+C:\Users\PatelU\source\repos\EmailServices\EmailServcies\OutboundEmail\obj\Debug\OutboundEmail.pdb

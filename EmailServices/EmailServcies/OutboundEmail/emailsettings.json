@@ -1,0 +1,9 @@
+{
+  "DBConnectionString": null,
+  "SmtpServer": null,
+  "SmtpPort": null,
+  "SmtpUsername": null,
+  "SmtpPassword": null,
+  "FromEmailAddress": "",
+  "timersetting": 5000
+}

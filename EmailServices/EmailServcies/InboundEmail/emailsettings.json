@@ -1,0 +1,8 @@
+{
+  "DBConnectionString": null,
+  "Pop3Server": null,
+  "Pop3Port": null,
+  "Pop3Username": null,
+  "Pop3Password": null,
+  "timersetting": 2000
+}

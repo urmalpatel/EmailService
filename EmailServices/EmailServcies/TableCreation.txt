@@ -1,0 +1,23 @@
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[EmailAddresses]') AND type in (N'U'))
+DROP TABLE [dbo].EmailAddresses
+GO
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].EmailAddresses(
+	EmailAddress [nvarchar](200) NOT NULL,
+	Status [nvarchar](10) NULL,
+	
+ CONSTRAINT [PK_EmailAddresses] PRIMARY KEY NONCLUSTERED 
+(
+	EmailAddress ASC
+)
+)
+GO
+
+
+--INSTALL OPEN SOURCE NUGET MailKit.4.3.0
+--INSTALL OPEN SOURCE NUGET MimeKit.4.3.0
